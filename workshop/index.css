@@ -1,3 +1,51 @@
 img {
-    width: 800px
+    width: 700px;
+    border-radius: 50%;
+    border: 10px solid black;
+}
+
+body {
+    text-align: center ;
+}
+
+li{ 
+    list-style-type: none;
+}
+
+#gators{
+    
+    padding-top: 30px;
+    padding-bottom: 150px;
+    background-image: linear-gradient(rgb(34, 255, 104), yellow);
+}
+#monkeys{   
+    background-image: linear-gradient(rgb(125, 208, 252), rgb(188, 151, 69));
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+#lions{
+    background-image: linear-gradient(rgb(0, 100, 50), rgb(209, 122, 255));
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+#giraffe{
+    background-image: linear-gradient(rgb(255, 0, 242), yellow);
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+#bear{
+    background-image: linear-gradient(rgb(239, 255, 63), rgb(218, 117, 1));
+    padding-top: 30px;
+    padding-bottom: 100px;;
+}
+p{
+    font-size: 30px;
+    ;
+}
+h2{
+    font-size: 50px;
+}
+li{
+    font-size: 30px;
+    font-weight: bold;
 }
